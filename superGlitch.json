@@ -1,0 +1,15 @@
+{
+    "id": "super_glitch",
+    "name": "Super Glitch",
+    "author": ["DigitalDetective47"],
+    "description": "Extends Glitched edition from Cryptid to randomize non-numeric values",
+    "prefix": "sglitch",
+    "main_file": "main.lua",
+    "priority": 2147483648,
+    "badge_colour": "DCDCDC",
+    "badge_text_colour": "637F85",
+    "version": "0.1.0~dev",
+    "dependencies": [
+        "Cryptid (>=0.5.4~)"
+    ]
+}
